@@ -1,0 +1,99 @@
+MAIN-menu
+
+——————————————————————
+
+ESPRESSO BAR
+CAFFE PASCUCCI
+MENU
+NEWS
+STORE
+CUSTOMER
+
+———————————————————————
+
+SUB-menu-1
+
+ESPRESSO BAR
+
+———————————————————————
+
+SUB-menu-2
+
+브랜드 소개
+전통과 전통의 만남
+한국파스쿠찌
+이탈리아 파스쿠찌
+
+커피 & 컬쳐
+
+———————————————————————
+
+SUB-menu-3
+
+Coffee
+Italian coffee
+Coffee Variation(Hot)
+Coffee Variation(Iced)
+Cold Brew
+
+Beverage
+Seasonal
+Italian Granita
+Tea
+Fresh Juice
+
+
+Food
+Cake
+Italian Deli
+Bakery
+Dessert
+Italian Gelato
+
+MD
+Bean
+Tumbler
+Mug
+Coffee Tool
+Tea
+Others
+
+———————————————————————
+
+SUB-menu-4
+
+공지사항
+
+이벤트
+
+파스쿠찌 Talk
+
+홍보센터
+사회공헌
+보도자료
+
+——————————————————————— 
+SUB-menu-5
+
+매장안내
+
+———————————————————————
+
+SUB-menu-6
+
+제휴안내
+
+자주하는질문
+
+1:1문의하기
+
+———————————————————————
+
+KR
+EN
+
+------------------------
+
+가맹문의
+
+
