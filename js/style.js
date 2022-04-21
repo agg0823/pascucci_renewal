@@ -31,11 +31,11 @@ $(document).ready(function () {
 
   // video slide
   const bg = [
-    '../images/video/video-slide-full1.png',
-    "../images/video/video-slide-full2.png",
-    "../images/video/video-slide-full3.png",
-    "../images/video/video-slide-full4.png",
-    "../images/video/video-slide-full5.png"
+    'https://i.esdrop.com/d/f/yFoph0cSQK/WAUa6qPE0e.png',
+    'https://i.esdrop.com/d/f/yFoph0cSQK/tt3nDT1Vwu.png',
+    'https://i.esdrop.com/d/f/yFoph0cSQK/HScWGB4tp1.png',
+    'https://i.esdrop.com/d/f/yFoph0cSQK/NIk1h4uHcV.png',
+    'https://i.esdrop.com/d/f/yFoph0cSQK/6rNtVhpOKl.png'
   ]
   
   const slides = document.querySelectorAll(".video");
